@@ -1,0 +1,7 @@
+name: ExtraTools
+version: ${project.version}
+main: javiergg.extratools.ExtraTools
+api-version: 1.13
+prefix: ExtraTools
+authors: [ javiergg ]
+description: Extra tools for your server
