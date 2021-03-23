@@ -38,7 +38,7 @@ public class BlockBreak implements Listener {
                     autoMinado.minar();
                 }
             }catch (Exception e){
-                e.printStackTrace();
+//                e.printStackTrace();
             }
 
 
